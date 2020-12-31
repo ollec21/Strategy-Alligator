@@ -10,7 +10,7 @@ struct Indi_Alligator_Params_M5 : Indi_Alligator_Params {
     jaw_shift = 0;
     teeth_period = 11;
     teeth_shift = 0;
-    lips_period = 34;
+    lips_period = 10;
     lips_shift = 0;
     shift = 0;
   }
