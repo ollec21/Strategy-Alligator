@@ -6,7 +6,7 @@
 // Defines indicator's parameter values for the given pair symbol and timeframe.
 struct Indi_Alligator_Params_M15 : Indi_Alligator_Params {
   Indi_Alligator_Params_M15() : Indi_Alligator_Params(indi_alli_defaults, PERIOD_M15) {
-    jaw_period = 30;
+    jaw_period = 28;
     jaw_shift = 0;
     teeth_period = 11;
     teeth_shift = 0;
