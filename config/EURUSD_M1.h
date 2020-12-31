@@ -8,7 +8,7 @@ struct Indi_Alligator_Params_M1 : Indi_Alligator_Params {
   Indi_Alligator_Params_M1() : Indi_Alligator_Params(indi_alli_defaults, PERIOD_M1) {
     jaw_period = 30;
     jaw_shift = 0;
-    teeth_period = 11;
+    teeth_period = 20;
     teeth_shift = 0;
     lips_period = 34;
     lips_shift = 0;
